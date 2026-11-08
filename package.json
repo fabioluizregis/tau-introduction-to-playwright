@@ -1,0 +1,23 @@
+{
+  "name": "tau-introduction-to-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioluizregis/tau-introduction-to-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fabioluizregis/tau-introduction-to-playwright/issues"
+  },
+  "homepage": "https://github.com/fabioluizregis/tau-introduction-to-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
